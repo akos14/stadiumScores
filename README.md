@@ -41,7 +41,8 @@ Fontos az igényes megjelenés. Ez nem feltétlenül jelenti egy agyon csicsázo
 Adatok
 A feladatban négyféle adat van: csapatok, meccsek, hozzászólások és felhasználók. A csapatoknak tárolni kell a nevét és a képviselt várost. A meccseknél tárolni kell, hogy melyik csapatok játszották és milyen eredményt értek el. A felhasználóknak a nevét, email címét és jelszavát. A hozzászólások tárolását megoldhatod úgy, hogy tárolod a csapatnál egy belső tömbben, de úgy is, hogy egy külön tömbben vezeted a beérkezett hozzászólásokat, jelezve, hogy melyik csapathoz tartoznak. Az Pl. az alábbi egy lehetséges tárolás (itt a hozzászólások egy külön tömbben vannak):
 
-```$teams = [
+```
+$teams = [
     'teamid1' => [
         'id' => 'teamid1',
         'name' => 'Team #1',
