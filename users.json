@@ -1,0 +1,51 @@
+{
+    "5fcee3216105a": {
+        "username": "admin",
+        "email": "admin@elstadion.hu",
+        "password": "$2y$10$Awxun4S64A66CfEoJPCEE.Xqf3gduBHxvicqznMu6zBL.CMqFB.tO",
+        "isAdmin": true,
+        "id": "5fcee3216105a"
+    },
+    "61d975407f2eb": {
+        "username": "asdman",
+        "email": "asd@yahoo.com",
+        "password": "$2y$10$QJYbr6kPluaVChKQrIDAt.93kWwofN852Hg5tsaXO6pFtJpe0Dfj.",
+        "isAdmin": false,
+        "id": "61d975407f2eb"
+    },
+    "61d975d180402": {
+        "username": "HonvedSupporter",
+        "email": "honvedfan@hotmail.hu",
+        "password": "$2y$10$HwxoIRFJ4E402fimQcE2s.ilobEqzefXBg4TZtRvoEcVxWABfgN\/i",
+        "isAdmin": false,
+        "id": "61d975d180402"
+    },
+    "61d9760b74db2": {
+        "username": "AngryBettor",
+        "email": "ialwayslose@gmail.com",
+        "password": "$2y$10$DgKicdSouOEW1jeWzmKH8OaZk0d3rsp1AlSbbjlb94Ge1\/2zePTEa",
+        "isAdmin": false,
+        "id": "61d9760b74db2"
+    },
+    "61d97680993de": {
+        "username": "student",
+        "email": "student@elte.hu",
+        "password": "$2y$10$VJCZV\/927f\/kvP1Dt\/J1oeK8riEuAlhpinjvUb1GU\/d4NBIOl7wH2",
+        "isAdmin": false,
+        "id": "61d97680993de"
+    },
+    "61d9cf2b63d37": {
+        "username": "hackr",
+        "email": "hackr@net.hu",
+        "password": "$2y$10$DkFCfchwVOydGs99WBMd\/OMb6fDh9FWUsuQct0kCWO4HMjptrmZGi",
+        "isAdmin": false,
+        "id": "61d9cf2b63d37"
+    },
+    "61e04c069c38c": {
+        "username": "benci",
+        "email": "benci@gmail.com",
+        "password": "$2y$10$1cHHq.XxGbGLjMaRLYzlZ.zbLpMoM7K8FhakSG.AZ5kIFjlix\/J.G",
+        "isAdmin": false,
+        "id": "61e04c069c38c"
+    }
+}

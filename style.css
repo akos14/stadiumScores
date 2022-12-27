@@ -1,0 +1,98 @@
+@import url('https://cdn.jsdelivr.net/gh/elte-fi/www-assets@19.10.16/styles/mdss.min.css');
+
+.milestone {
+    background-color: #517d81;
+    color: white;
+    font-weight: bold;
+}
+
+polyline {
+    fill: none;
+    stroke: #517d81;
+    stroke-width: 2;
+}
+
+svg {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid gray;
+    box-shadow: 0 0 10px gray;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+}
+
+button {
+    float: right;
+}
+
+#comments {
+    width: 100%;
+    margin-left: 1%;
+}
+
+form {
+    margin-left: 2%;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+label {
+    display: block;
+}
+
+li {
+    margin-left: 2%;
+}
+
+button {
+    padding: 10px;
+    float: left;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+#indexbutton {
+    padding: 10px;
+    float: right;
+    margin-left: 2%;
+    margin-top: 0;
+}
+
+#detailsbutton {
+    padding: 10px;
+    float: left;
+    margin-left: 3%;
+    margin-bottom: 1%;
+}
+
+#detailssendbutton {
+    padding: 10px;
+    float: right;
+    margin-left: 3%;
+    margin-bottom: 1%;
+}
+
+#loginbutton {
+    padding: 10px;
+    float: right;
+    margin-top: 1%;
+}
+
+p {
+    margin-left: 2%;
+}
+
+#modify {
+    float: right;
+}
